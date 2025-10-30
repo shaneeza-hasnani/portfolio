@@ -20,7 +20,7 @@ const SkillsSection = () => {
     title: "Visualization & BI",
     subtitle: "Tableau, Microsoft Power BI, Excel (Advanced)",
     icon: BarChart3,
-    color: "from-[hsl(209,36%,70%)] to-[hsl(209,36%,60%)]"
+    color: "from-[hsl(18,45%,63%)] to-[hsl(9,100%,81%)]"
   }, {
     id: "fraud-detection",
     title: "Fraud Detection",
