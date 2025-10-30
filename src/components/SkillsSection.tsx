@@ -8,7 +8,7 @@ const SkillsSection = () => {
     title: "Programming & Data",
     subtitle: "R, Python, SQL, C++, Scala, SAS, SPSS",
     icon: Code2,
-    color: "from-[hsl(209,36%,75%)] to-[hsl(209,36%,65%)]"
+    color: "from-[hsl(9,100%,85%)] to-[hsl(18,45%,73%)]"
   }, {
     id: "machine-learning",
     title: "Machine Learning",
