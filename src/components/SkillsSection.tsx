@@ -8,25 +8,25 @@ const SkillsSection = () => {
     title: "Programming & Data",
     subtitle: "R, Python, SQL, C++, Scala, SAS, SPSS",
     icon: Code2,
-    color: "from-[hsl(209,36%,75%)]/70 to-[hsl(209,36%,65%)]/70"
+    color: "from-[hsl(209,36%,75%)] to-[hsl(209,36%,65%)]"
   }, {
     id: "machine-learning",
     title: "Machine Learning",
     subtitle: "Random Forest, Logistic Regression, Decision Trees, Anomaly Detection",
     icon: Brain,
-    color: "from-[hsl(18,45%,68%)]/70 to-[hsl(18,45%,58%)]/70"
+    color: "from-[hsl(18,45%,68%)] to-[hsl(18,45%,58%)]"
   }, {
     id: "visualization",
     title: "Visualization & BI",
     subtitle: "Tableau, Microsoft Power BI, Excel (Advanced)",
     icon: BarChart3,
-    color: "from-[hsl(122,39%,75%)]/70 to-[hsl(122,39%,65%)]/70"
+    color: "from-[hsl(209,36%,70%)] to-[hsl(209,36%,60%)]"
   }, {
     id: "fraud-detection",
     title: "Fraud Detection",
     subtitle: "Advanced anomaly detection and pattern recognition",
     icon: Shield,
-    color: "from-[hsl(9,100%,81%)]/70 to-[hsl(9,100%,71%)]/70"
+    color: "from-[hsl(9,100%,81%)] to-[hsl(9,100%,71%)]"
   }];
   return <section id="skills" className="py-12 bg-background">
       <div className="container mx-auto px-6">
